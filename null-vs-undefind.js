@@ -1,16 +1,16 @@
-// function add(num1, num2){
-//     console.log(num1+num2);
-//     return
-// }
+function add(num1, num2){
+    console.log(num1+num2);
+    return
+}
 
 
-// function add(num1, num2){
-//     console.log(num1, num2);
-// }
+function add(num1, num2){
+    console.log(num1, num2);
+}
 
 
-// const premik = {name: "smart dude" , phone : 455663};
-// console.log(premik.gf);
+const premik = {name: "smart dude" , phone : 455663};
+console.log(premik.gf);
 
 
 let fun = undefined;
